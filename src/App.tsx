@@ -16,25 +16,25 @@ import { Testimonials } from "./components/Testimonials";
 import "./App.css";
 
 function App() {
-  return (
-    <>
-      <Navbar />
-      <Hero />
-      <Sponsors />
-      <About />
-      <HowItWorks />
-      <Features />
-      <Services />
-      <Cta />
-      <Testimonials />
-      <Team />
-      <Pricing />
-      <Newsletter />
-      <FAQ />
-      <Footer />
-      <ScrollToTop />
-    </>
-  );
+ return (
+  <>
+   <Navbar />
+   <Hero />
+   <Sponsors />
+   <About />
+   <HowItWorks />
+   <Features />
+   <Services />
+   <Cta />
+   <Testimonials />
+   <Team />
+   <Pricing />
+   <Newsletter />
+   <FAQ />
+   <Footer />
+   <ScrollToTop />
+  </>
+ );
 }
 
 export default App;
